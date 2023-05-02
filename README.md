@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @Tpudim
+- 👋 Hi, I’m Guilherme
 - 👀 I’m interested in learning more about programming languages and computer science
 - 🌱 I’m currently learning python and unity development
 - 💞️ I’m looking to collaborate on game and apps projects
 - 📫 How to reach me in the discord, user: tpudim#2705
+- 
